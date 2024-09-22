@@ -1,0 +1,17 @@
+{
+    "firstName": "Rack",
+    "lastName": "Jackson",
+    "gender":"man",
+    "age":24,
+    "address":{
+        "street":"24",
+        "city":"pondy",
+        "state":"pondicherry",
+        "pincode":"605003",
+
+    },
+    "phone":[
+        {"type":"home","number":"9629300971"}
+    ]
+
+}
